@@ -15,6 +15,8 @@ public class Class01 {
         //versiyon 4
 
         System.out.println("versiyon yenileme");
+//versiyon 4
+        System.out.println("versiyon 5");
 
 
     }
