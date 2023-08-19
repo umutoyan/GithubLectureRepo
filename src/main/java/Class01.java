@@ -11,6 +11,12 @@ public class Class01 {
         System.out.println(x+y+z);
         //versiyon 3
         System.out.println("bazi kodlar");
+
+        //versiyon 4
+
+        System.out.println("versiyon yenileme");
+
+
     }
 }
 
