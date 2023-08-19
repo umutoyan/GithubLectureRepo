@@ -9,7 +9,8 @@ public class Class01 {
         //versiyon 2
         int z= 5;
         System.out.println(x+y+z);
+        //versiyon 3
+        System.out.println("bazi kodlar");
     }
-
 }
 
